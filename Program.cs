@@ -1,20 +1,16 @@
 ﻿using OpenTK;
 using OpenTK.Windowing.Desktop;
 using OpenTK.Mathematics;
+using OpenTK_VGE.GameBackEnd;
 
-namespace OpenTK_VGE
+namespace OpenTK_VGE.Program
 {
     public class Program
     {
         static void Main()
         {
-            GameWindowSettings gws = new GameWindowSettings();
-            NativeWindowSettings nws = new NativeWindowSettings();
-            nws.Size = new Vector2i(960, 540);
-            nws.Title = "Hello Word";
-
-            GameWindow gameWindow = new GameWindow(gws, nws);
-            gameWindow.Run();
+            Game game = new Game(960, 540, "OpenTK Voxel Game Engine");
+            game.Run();
         }
     }
 }
