@@ -1,7 +1,4 @@
-﻿using OpenTK;
-using OpenTK.Windowing.Desktop;
-using OpenTK.Mathematics;
-using OpenTK_VGE.GameBackEnd;
+﻿using OpenTK_VGE.GameBackEnd;
 
 namespace OpenTK_VGE.Program
 {
