@@ -59,6 +59,6 @@ Open a pull request in the original repository.
 OpenTK-VGE is distributed under the <a href="https://opensource.org/license/mit/">MIT License</a>. See the <a href="LICENSE">LICENSE</a> file for more information.
 
 <h2>Contact</h2>
-If you have any questions, suggestions, or wish to report an issue, feel free to open an issue in this repository or contact us via email at your-email@example.com.
+If you have any questions, suggestions, or wish to report an issue, feel free to open an issue in this repository or contact us via email at kaua.jose122@proton.me.
 
 Thank you for your interest in OpenTK-VGE!
